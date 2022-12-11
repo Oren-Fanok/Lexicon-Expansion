@@ -1,7 +1,7 @@
 # Lexicon-Expansion
 
 
-This Lexicon Expansion program is useful for defining relevant target data from large amounts of text using keywords. 
+This Lexicon Expansion program is useful for defining relevant target data from large amounts of text using keywords. The file will build a dictionary of text based on whether or not the tweet contains the relevant keywords, as defined by the concetration functions (more information below). The final result is a lexicon built entirely out of text that is relevant to the business case.
 
 # Process
 
